@@ -50,3 +50,14 @@ KTimer是一款`智能可视化体感竞品耗时工具`
 
 ![image-20220507155222795](assets/img/image-20220507155222795.png)
 
+![https://img.zcool.cn/community/01b59762118deb11013e8cd09a50e7.gif](assets/img/01b59762118deb11013e8cd09a50e7.gif)
+
+
+
+使用教程也可以看
+
+https://www.bilibili.com/video/BV1ZR4y1L7LH?zw
+
+
+
+如果有什么使用方面的问题，欢迎留 issue 或者 email: vicentkarl@gmail.com
