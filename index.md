@@ -56,7 +56,7 @@ KTimer是一款`智能可视化体感竞品耗时工具`
 
 使用教程也可以看
 
-[](https://www.bilibili.com/video/BV1ZR4y1L7LH?zw)
+[(https://www.bilibili.com/video/BV1ZR4y1L7LH?zw](https://www.bilibili.com/video/BV1ZR4y1L7LH?zw)
 
 
 ![](https://txmov2.a.yximgs.com/kos/nlav12166/ktimer/images/Xnip2022-07-11_11-45-14.jpg)
